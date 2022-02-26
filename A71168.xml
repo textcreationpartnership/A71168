@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty new qveries proposed to all true English-men concerning the unreasonable &amp; insupportable burthen, lying heavy upon the shoulders of this groaning nation, occasioned by the illegal and traiterous usurpation of a late deceased tyrant, who Jehu-like carryed both law, religion, and tyranny in his scabbard likewise, the epidemical disease of this rolling and schismatical age, unmasked, and all weathercocks, king-fishers, new fangled usurpers, upstart-law-destroyers, and abominable Parliament breakers, discovered, in the case and recital of such devouring caterpillars, who thirst after nothing more then the swallowing up of the peoples antient rights and liberties, to perpetuate the nations still in misery and oppressions / by one of the few English men that are left in England.</title>
+            <author>One of the few English-men that are left in England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71168</idno>
+            <idno type="STC">Wing T3412A</idno>
+            <idno type="STC">ESTC R1633</idno>
+            <idno type="EEBO-CITATION">12222211</idno>
+            <idno type="OCLC">ocm 12222211</idno>
+            <idno type="VID">56438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:36 or 928:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty new qveries proposed to all true English-men concerning the unreasonable &amp; insupportable burthen, lying heavy upon the shoulders of this groaning nation, occasioned by the illegal and traiterous usurpation of a late deceased tyrant, who Jehu-like carryed both law, religion, and tyranny in his scabbard likewise, the epidemical disease of this rolling and schismatical age, unmasked, and all weathercocks, king-fishers, new fangled usurpers, upstart-law-destroyers, and abominable Parliament breakers, discovered, in the case and recital of such devouring caterpillars, who thirst after nothing more then the swallowing up of the peoples antient rights and liberties, to perpetuate the nations still in misery and oppressions / by one of the few English men that are left in England.</title>
+                  <author>One of the few English-men that are left in England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the Year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reels 901:36 and 928:10.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56438:1"/>
+            <pb facs="tcp:56438:1" rendition="simple:additions"/>
+            <p>Twenty New QVERIES Propoſed to all true ENGLISH-MEN, <hi>CONCERNING</hi> The Unreaſonable &amp; Inſupportable Burthen, lying heavy upon the Shoulders of this Groaning Na<g ref="char:EOLhyphen"/>tion; Occaſioned by the Illegal and Traiterous Uſurpation of a late De<g ref="char:EOLhyphen"/>ceaſed Tyrant, who <hi>Jehu-</hi>like carryed both Law, Religion, and Tyranny in His SCABBARD.</p>
+            <p>Likewiſe, the Epidemical <hi>Diſeaſe</hi> of this Rolling and Schiſmatical Age, unmasked; And all Weather-Cocks, King-fiſhers, New-fangled Uſurpers, Upſtart-Law-deſtroyers, and Abominable Parliament-Breakers, diſcovered;</p>
+            <p>In the Caſe and Recital of ſuch de<g ref="char:EOLhyphen"/>vouring Caterpillars, who thirſt after nothing more then the ſwallowing up of the Peoples antient Rights and Liberties, to perpetuate the Nations ſtill in Miſery and Oppreſſions.</p>
+            <p>By One of the few <hi>Engliſh-men</hi> that are left in <hi>England.</hi>
+            </p>
+            <p>Printed in the Year, 1659.</p>
+            <pb facs="tcp:56438:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:56438:2"/>
+            <head>Twenty New QUERIES BETWEEN Jeſt and Earneſt, <hi>&amp;c.</hi> OR, <hi>Democritus</hi> turned <hi>States-Man.</hi>
+            </head>
+            <p n="1">I. WHether it be not convenient, that the doctrine of <hi>Copernicus,</hi> who held, That the World turns round, ſhould be eſtabliſhed by Act of Parliament, which our late Changes, Alterations, and Revolutions, in part have verified; and that <hi>Tycho Brache,</hi> with the Gang of the contrary Opinion be adjudged Heterodoxal; and that from henceforth it be enacted, That what perſons ſoever do profeſs, pub<g ref="char:EOLhyphen"/>liſh, or hold forth any other Tenent contrary thereunto, be adjudged <hi>Ana<g ref="char:EOLhyphen"/>thema, Maranatha,</hi> and that publick thanks be given to <hi>Vincent Wing,</hi> for the great pains he took in the compoſure of that excellent piece called <hi>Harmonicon Coeleste?</hi>
+            </p>
+            <p n="2">II. Whereas it is humbly conceived fit by <hi>Machiavil</hi> and his Pupils, That all the Gangrened Members of the body Politick be cut off, leſt putri<g ref="char:EOLhyphen"/>faction of the whole ſhould enſue. It is therefore worthy the conſide<g ref="char:EOLhyphen"/>ration, Whether it be not expedient to imploy an Ambaſſadour to the man in the Moon, to procure habitations for our new Courtiers, (greater
+<pb n="4" facs="tcp:56438:3"/>
+               <hi>Antipodes</hi> to the preſent Government, than the old conſtant Cavaliers:) And for the better effecting thereof, it is deem'd neceſſary, that the great Clerk Doctor <hi>Wilkins,</hi> Warden of <hi>Wadham</hi> Colledge in <hi>Oxon,</hi> in regard he hath the greateſt knowledge in that new Plantation, be deſired with all ſpeed, to provide his winged Chariot for their convenient carriage, and that he undertake the imployment of a Coachman to conduct them thither?</p>
+            <p n="3">III. But if that deſign fail, Whether it be not expedient to ſhip them all <hi>Oceana,</hi> and that Mr. <hi>Harrington</hi> our famous modern <hi>Columbus</hi> diſcoverer of that floting <hi>Terra incognita,</hi> be deſired to be the Pilot to conduct them thither, who for his pains deſerves to be made Knight of the Sunne, and that in a grateful remembrance of his good ſervice, it ſhould alwayes be called after his name, <hi>(viz.) Harringtonia?</hi>
+            </p>
+            <p n="4">IV. Whether it be not convenient, or rather neceſſary, to call all perſons to an account that have any way contributed their aſſiſtance for the eſtabliſh<g ref="char:EOLhyphen"/>ing of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e late deceaſed Tyrant as chief Magiſtrate of this Commonwealth? And whether any perſon, or perſons, who have any way abetted him, and endeavoured to confirm him in his Tyranny, or Acted under him in any places of Truſt, Power, or ſate in any Parliament, or Convention ſummoned by his Writ; be fit to be intruſted with any Office in the Common-wealth as 'tis now ſettled?</p>
+            <p n="5">V. Whether it be not a great Contempt of the Law enacted by this Par<g ref="char:EOLhyphen"/>liament, that made it Treaſon for any one perſon to aime at the ſole Go<g ref="char:EOLhyphen"/>vernment of this Commonwealth, to ſuffer ſuch perſon to go unp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed, in deſpight of the ſaid Law; and whether it be not prudonce to have ſuch perſon brought to condign puniſhment, that hath tranſgreſſed that Law, to terrifie others for the future, for making the like attempt?</p>
+            <p n="6">VI. Whether thoſe Apoſtate Officers of the Army, that were Active, and grand Inſtruments in ſuſpending and diſturbing this Seſſion of Parlia<g ref="char:EOLhyphen"/>ment, as well as ſecluding, impriſoning, and injuſtly detracting ſeve<g ref="char:EOLhyphen"/>ral Members of the ſame Parliament before, that were eminent Aſſer<g ref="char:EOLhyphen"/>tors of the Peoples Liberties, againſt Tyranny and Oppreſſion, conſcien<g ref="char:EOLhyphen"/>tious propagators of the Goſpel, and eſtabliſhers of the Fundamentall, municipal Law of the Land, and valiant Champions of the [true Old Cauſe;] And by their Declaration of <hi>Aug.</hi> 22. <hi>Anno Dom.</hi> 1653, as al<g ref="char:EOLhyphen"/>ſo
+<pb n="5" facs="tcp:56438:3"/>
+by a Paſquil call'd the true ſtate o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Common-wealth, <hi>Anno</hi> 1654. declared this Seſſion of Parliament to be actually and finally diſſolved from being any more a Parliament, (by an extraordinary providence) but alſo branded the members therof ignominiouſly for a corrupt party, carrying on their own ends, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o perpetuate themſelves as Supream Autho<g ref="char:EOLhyphen"/>rity, never anſwering the ends which God and his People expected from them, exerciſing Arbitrary power, and ſwallowing up the antient Liber<g ref="char:EOLhyphen"/>ties of the people, and to perpetuate their miſeries, vexations, and oppreſ<g ref="char:EOLhyphen"/>ſions, through the multitude of unneceſſary Laws, and Ordinances, con<g ref="char:EOLhyphen"/>cerning their own particular intereſt, as they there at large remonſtra<g ref="char:EOLhyphen"/>ted, be fit perſons to have any imployment either Military or Civil with<g ref="char:EOLhyphen"/>in this Common-wealth?</p>
+            <p n="7">VII.
+Whether a Weather-cock, a King-fiſher, a plyant Willow, a piece of Wax capable of all Impreſſions, a Time-Server, a Perſian ſtill ſacrificing to the Riſing Sun, a Lord Preſident under the late Tyrant, of his High Court of Injuſtice, a man that hath made Juſtice quick ſighted, and re<g ref="char:EOLhyphen"/>deemed it from blindneſs, be a fit keeper of the Common-wealths con<g ref="char:EOLhyphen"/>ſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence?</p>
+            <p n="8">VIII. Whether a hot brain'd Parrot, that multiplies words without matter, a new Courtier, an Apoſtate from his firſt Principles, and the Good Old Cauſe, as appeares by a Speech he made in the laſt Parliament, in the behalf of <hi>R. C.</hi> be fit to be reſtored to his place of Atturney General for South-Wales.</p>
+            <p n="9">IX. Whether <hi>Pride</hi> and arrogancy, one who is of yeſterday, and knowes nothing, a Clark, or Barriſter of nine years ſtanding, in his heart a Quaker, yeſterday a Protectorian, this day a Republican, to morrow what you pleaſe; a favourer of leveliſme, and one that is not conſtant in a<g ref="char:EOLhyphen"/>ny thing but inconſtancy (ſave onely in the opinion that there are no witches, nor can deſerve death, though an Act of Parliament be made to that end) be fit to be a Judge in <hi>Wales.</hi>
+            </p>
+            <p n="10">X. Whether a Debaucher of both the Protectors, an oppreſſor of his Country, a perſecutor of the Godly, one that ſacreligiouſly robbed Gods Houſe, to build himſelf ſumptuous Pallaces, and hath purcha<g ref="char:EOLhyphen"/>ſed 5000 <hi>l. per annum,</hi> who never fought nor drew a Sword in anger, be
+<pb n="6" facs="tcp:56438:4"/>
+fit to ſit in that venerable aſſembly of the Common-wealths repreſenta<g ref="char:EOLhyphen"/>tives; or whether it be not fitter for him to be rejected, and his eſtate ſold to pay juſt publique debts?</p>
+            <p n="11">XI. Whether it be lawful for an ignorant Scribler to vent his pettiſh hu<g ref="char:EOLhyphen"/>mor, malice, and reproaches againſt thoſe perſons, who in the Seat of Ju<g ref="char:EOLhyphen"/>dicature have behaved themſelves upright, juſt, and honeſt, and done the Common-wealth ſingular good ſervice during both the late Protectors Government?</p>
+            <p n="12">XII. Whether, Levellers, Dippers, Independants, Presbyterians, Jeſuites, Donatiſts, Manachees, Pelagians, Enthuſiaſts, Schiſmaticks, Hereticks, Hypocrites, Devils incarnate; yea, whatever the preſent power will have them to be, of any Religion, of all Religions, of none at all; the true Orthodox and learned Divines Ordaels; Knaves, fools, yea favourers of their brethren, learned in the ſame faculties; and <hi>Telenus</hi> houſe of Cor<g ref="char:EOLhyphen"/>rection in a Mercurial new found Land; Befit perſons to be entruſted with the power over the Conſciences of honeſt and religious men; And whether ſome of them, that are ſo well acquainted with the myſterious Art of Bribery and Symony; And ſuch <hi>Simon Magus,</hi> as by the knack of Regi<g ref="char:EOLhyphen"/>ſtry hath encreaſed his eſtate from a Parſonage of 100 <hi>l. per annum,</hi> to 1200 <hi>l. per annum,</hi> land of inheritance, ought not in juſtice and prudence be called to an account, and their Eſtates acquired by the ruins of the Church, and ſeveral poor Miniſters, be ſold towards the payment of ar<g ref="char:EOLhyphen"/>rears due to the poor banckrupted common Souldiers, that ſuffer hunger and want, while ſuch enjoy the ſtreams of <hi>Tagus</hi> in their Coffers.</p>
+            <p n="13">XIII. Whether it be not a matter of dangerous conſequence to permit, a crop-Eard Pettifogger, a reviler of the Saints, a conſtant oppoſer of pow<g ref="char:EOLhyphen"/>ers, an unwearied Scribler, a Demoniack, poſſeſſed with a legion of hel<g ref="char:EOLhyphen"/>liſh Fiends, the Spirit of contradiction to publiſh a ſcandalous libel againſt the Good Old Cauſe, and the defenders thereof in ſuch a juncture of time, wherein moſt Spirits are factious, and apt to take fire? like tinder at the leaſt ſpark of encouragement dropping from a fiery pen.</p>
+            <p n="14">XIV. Whether a <hi>Plagiarius,</hi> a <hi>Demetrius,</hi> a Gaoler of our liberties, and one who in the laſt aſſembly was in a probability to ſuffer for his unparallel'd Crimes, be fit to be truſted with the command of the moſt impor<g ref="char:EOLhyphen"/>tant
+<pb n="7" facs="tcp:56438:4"/>
+place of the Nation, and whether it be not neceſſary to expoſe him to the ſword of Juſtice, who hath ſo much abuſed the ſword of the Common-wealth.</p>
+            <p n="15">XV. Whether it will not be wiſdom to look back to the occaſion of the late blou<g ref="char:EOLhyphen"/>dy and unhappy War, and gradually to the proſecutions thereof, and the end that was propoſed at the beginning: and when the continuance of the <hi>medium</hi> enduring to that end was everted? And then to return to the place where paſ<g ref="char:EOLhyphen"/>ſion captivated Reaſon, and there to build a happy Government upon the Baſis of the true Old Cauſe, according to the firſt Principles that were owned by all good People?</p>
+            <p n="16">XVI. Whether it be not the pureſt and ſafeſt kind of Free State, to have a Free Parliament erected annually, or twice a year as it was before the Conqueſt, and after many years; without reſtraint on the wills of the free People of the Nation; which Parliament may conſtitute and erect a Senate that ſhall act according, and ſubject to the Law of the Land, in the interval of Parliament, and ſo to be elected from year to year by each Parliament; which Parlia<g ref="char:EOLhyphen"/>ment being the free people of Englands Repreſentatives, ought not to be re<g ref="char:EOLhyphen"/>ſtrained, or curb'd by any ſort of Court-Convention, or Councel enjoy<g ref="char:EOLhyphen"/>ing Co-ordinate power; for that will be, to aboliſh the grand inconvenience of one negative voice ſo much braid againſt, and to ſet up a monſtrous Hydra of Negatives, (for great care ought to be taken to preſerve unity in a Re<g ref="char:EOLhyphen"/>publick, which lieth moſt obnoxious to popular commotions, and factions) [the Epidemical Diſeaſe of this Schiſmatical Age;] And further, that ſuch men may be elected for Repreſentatives in Parliament Councils, and Senats, as be wiſe, honeſt, prudent, and Religious; and not Factious Sectaries, or ſuch as wear both Law, Equity, Reaſon, and Religion in their Scabards, and Father all their prodigious wilful and exorbirant actions on Providence?</p>
+            <p n="17">XVII. Whether the Armies Declaration, and Secluſion of the Parliament in 1653. were an abſolute Diſſolution of that Seſſion, and whether the people making new Elections by virtue of O. P. his Writ, and alſo moſt of the Members of the ſaid Parliament owning the ſaid Elections to be legal by their endeavours to be elected, and ſitting by vertue of ſuch Election, was a Confirmation thereof, And moreover whether they can be remitted to their antient Right, by getting poſſeſſion without the concurrence of an antient Remediable Right, which is abſolutely neceſſary to work a Remitter.</p>
+            <p n="18">XVIII. Whether it conſiſts with Policy &amp; National prudence to keep ſuch a lawleſs Army on foot, who are carryed away with a Whirl-wind or Tempeſt of Ambiti<g ref="char:EOLhyphen"/>on, and walk <hi>Antipodes</hi> to all ſetled and peaceable Government, and are ready
+<pb n="8" facs="tcp:56438:5" rendition="simple:additions"/>
+Inſtruments for any inſolent Apoſtate, or tyrannical Dictator, that will equal them in pretences of Religion (yet denying the power thereof,) and like <hi>Pom<g ref="char:EOLhyphen"/>pey,</hi> will make it his deſign by ſecret Engines, to caſt the State into an abſolute Anarchy and confuſion, that the State might caſt it ſelf into his Armies, in ne<g ref="char:EOLhyphen"/>ceſſity for a Protection, and ſo the Soveraign power be eaſt on him, who pro<g ref="char:EOLhyphen"/>bably hath neither Reaſon nor Law on his ſide, ſave only to make good the ſaying of <hi>Solon,</hi> who when <hi>Croeſus</hi> ſhewed him his Treaſury of Gold, ſaid to him, (that if another came that had better Iron) he would be quickly maſter of his Gold.</p>
+            <p n="19">XIX. Whether it be not ſafer and more agreeable to the preſent Government of this Commonwealth; and all other free States, where due courſe of Law is ad<g ref="char:EOLhyphen"/>mitted for recovery of Rights, or deciding of <hi>meum</hi> and <hi>tuum,</hi> and liberty of Subjects favoured, which we have with great expence of blood ſo long fought for, to raiſe the <hi>Militia</hi> in each County, under the command of prudent and religious men, that have intereſt in their Country, and are concern'd in the welfare of the Commonwealth, and not meer hirelings, that will be apt to take any impreſſion, to the diſturbance of the publike peace, for their own pri<g ref="char:EOLhyphen"/>vate ends, and will make their ſwords Patronize intolerable rapine?</p>
+            <p n="20">XX. Since the Apoſtles call Religion (out reaſonable ſervice to God) inſommch as the very ceremonies, and figures of the old Law were full of reaſon and ſigni<g ref="char:EOLhyphen"/>fication, but more eſpecially the Chriſtian Faith under the Goſpel; as in all things, ſo in this, deſerveth to be highly magnified; holding forth the Golden Mediocrity in this point, between the Law of the Heathen, and the Law of <hi>Ma<g ref="char:EOLhyphen"/>humet,</hi> which have embraced the two extreams, (for the firſt had no conſtant beliefe or confeſſion, but left altogether to the liberty of profeſſours; and the laſt on the other ſide interdicteth all arguments about the matter, and enjoyn<g ref="char:EOLhyphen"/>eth unity in the manner of the profeſſion of Religion, the one having the very face of errour, the other, of impoſture, whereas the faith doth both admit, and reject Diſputations and profeſſions with difference;) Whether then it be not requiſite to ſettle ſuch a Religion in this Nation, as may conſiſt with the Apo<g ref="char:EOLhyphen"/>ſtles words, and ſuch a Mediocrity that we be neither tyed on the one hand to <hi>Mahumetan</hi> unity of accidental Diſcipline, or manner of worſhip, nor on the other hand be left to a Heatheniſh Liberty both in the Articles and Principles of Religion, and alſo in the ſubſtantial matter of belief, and decent manner of diſcipline and confeſſion, ſince ſuch boundleſs liberty is the mother of all Sects, Hereſies, and Atheiſm (which this Age abounds with, though vail'd under the ſpecious garments of tender conſcience, who are enemies to all ſetled Govern<g ref="char:EOLhyphen"/>ment, whether Monarchy or Oligarchy) except their heretical opinions be favoured, and themſelves mounted to the Zenith of Preferment, and Stem of Government, which is hop'd will never be, though highly at preſent en<g ref="char:EOLhyphen"/>deavoured.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56438:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
